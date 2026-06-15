@@ -10,23 +10,25 @@ x-category: "Video"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Video
-  - Public APIs
+- Video
+- Public APIs
 apis:
-  - name: SWAPI GraphQL
-    description: "Star Wars GraphQL API"
-    humanURL: https://graphql.org/swapi-graphql
-    baseURL: https://graphql.org/swapi-graphql
-    tags:
-      - Video
-    properties:
-      - type: Documentation
-        url: https://graphql.org/swapi-graphql
-common:
-  - type: Website
+- name: SWAPI GraphQL
+  description: "Star Wars GraphQL API"
+  humanURL: https://graphql.org/swapi-graphql
+  baseURL: https://graphql.org/swapi-graphql
+  tags:
+  - Video
+  properties:
+  - type: Documentation
     url: https://graphql.org/swapi-graphql
-  - type: PublicAPIsListing
-    url: https://github.com/public-apis/public-apis
+  - url: graphql/swapi-graphql-graphql.md
+    type: GraphQL
+common:
+- type: Website
+  url: https://graphql.org/swapi-graphql
+- type: PublicAPIsListing
+  url: https://github.com/public-apis/public-apis
 maintainers:
-  - FN: Kin Lane
-    email: kin@apievangelist.com
+- FN: Kin Lane
+  email: kin@apievangelist.com
