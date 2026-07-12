@@ -25,6 +25,8 @@ apis:
   - url: graphql/swapi-graphql-graphql.md
     type: GraphQL
 common:
+- type: DomainSecurity
+  url: security/swapi-graphql-domain-security.yml
 - type: Website
   url: https://graphql.org/swapi-graphql
 - type: PublicAPIsListing
