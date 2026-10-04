@@ -39,7 +39,6 @@ apis:
 - name: SWAPI GraphQL
   description: "Star Wars GraphQL API"
   humanURL: https://graphql.org/swapi-graphql
-  baseURL: https://graphql.org/swapi-graphql
   tags:
   - Video
   properties:
