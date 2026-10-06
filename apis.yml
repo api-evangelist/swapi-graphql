@@ -27,7 +27,7 @@ description: "Star Wars GraphQL API"
 url: https://graphql.org/swapi-graphql
 specificationVersion: '0.23'
 created: '2026-05-28'
-modified: '2026-05-28'
+modified: '2026-10-06'
 x-source: public-apis/public-apis
 x-category: "Video"
 x-tier: 3
@@ -47,6 +47,8 @@ apis:
   - url: graphql/swapi-graphql-graphql.md
     type: GraphQL
 common:
+- url: https://graphql.org/blog/rss.xml
+  type: BlogRSS
 - type: DomainSecurity
   url: security/swapi-graphql-domain-security.yml
 - type: Website
