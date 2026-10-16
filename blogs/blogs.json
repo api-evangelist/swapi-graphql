@@ -1,0 +1,14 @@
+{
+  "repo": "swapi-graphql",
+  "feeds": [
+    {
+      "source": "https://graphql.org/blog/rss.xml",
+      "feed_url": "https://graphql.org/blog/rss.xml",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-10-10T13:15:00Z"
+}
